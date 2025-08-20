@@ -126,8 +126,6 @@ The Streamlit monitoring dashboard provides:
 - Retrieval quality (precision@k over time).  
 - LLM performance breakdown.  
 
-✅ At least 5 monitoring charts implemented with sample data.  
-
 ---
 
 ## 📦 Containerization
@@ -156,7 +154,7 @@ docker-compose up --build
 
 ---
 
-## 🌐 Deployment (Bonus: Cloud-ready)
+## 🌐 Deployment
 
 The app is deployable to Render or Railway for free.  
 
