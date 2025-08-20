@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  app:
+    build: ./docker
+    container_name: mh_rag_app
+    ports:
+      - "8501:8501"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    volumes:
+      - .:/app
+    restart: unless-stopped
+
+# Note: add a vector DB service (e.g., milvus) or a persistent DB for feedback. - Carlos Saritama

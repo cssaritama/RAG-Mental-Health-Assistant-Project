@@ -1,0 +1,3 @@
+Mental health includes our emotional, psychological, and social well-being.
+This example document is a short public-domain style excerpt used for testing ingestion and evaluation.
+Replace with curated documents from WHO, NIH, NHS or licensed clinical guidelines for production use.
