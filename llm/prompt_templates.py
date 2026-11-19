@@ -1,5 +1,4 @@
 #**Author:** Carlos Stalin Saritama Atopo  
-#**Email:** cssaritama@gmail.com  
 #**Area of Specialization:** Analytics, Advanced Analytics, and Artificial Intelligence  
 #**Date:** August 2025 
 
@@ -17,5 +16,5 @@ Context:
 
 Question: {question}
 
-Answer:""""
+Answer:"""
     return prompt
