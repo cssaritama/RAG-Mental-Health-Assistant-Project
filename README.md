@@ -1,6 +1,8 @@
 
 # 🧠 RAG Mental Health Assistant
 
+> **Status:** LLM Zoomcamp project, DataTalks.Club. Completed; last updated August 2025. Not actively maintained.
+
 A Retrieval-Augmented Generation (RAG) project designed to provide reliable, explainable, and safe responses to mental health-related queries using a combination of retrieval-based search and large language models (LLMs).  
 This project is built as part of the LLM Zoomcamp (DataTalksClub) and meets all evaluation criteria required for certification.
 
