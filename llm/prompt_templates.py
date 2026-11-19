@@ -16,5 +16,5 @@ Context:
 
 Question: {question}
 
-Answer:""""
+Answer:"""
     return prompt
